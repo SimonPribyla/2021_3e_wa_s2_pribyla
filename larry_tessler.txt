@@ -1,0 +1,5 @@
+Stál za vznikem nových klávesových zkratek pro vyjímání, kopírování a vkládání (Ctrl + x, Ctrl + c, Ctrl + v)
+Pracoval na vytvoření prvního textového editor s GUI (grafickým uživatelským rozhraním)
+V průběhu svého pracovního života působil v největších technologických firmáích své doby (Yahoo!, Apple, Xerox PARC, Amazon)
+V době svého působení ve firmě Apple Computer Inc. pracoval na nejambicióznějších projektech této doby, Apple Lisa a Apple Macintosh
+Pracoval na vývoji prvního objektově orientovaného jazyka zvaném Smalltalk
