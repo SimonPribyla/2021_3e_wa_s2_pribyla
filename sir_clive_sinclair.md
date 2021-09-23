@@ -6,4 +6,3 @@ Sir Clive Sinclair
 * Také ho bylo možno koupit za necelých 100 liber v prebuilt verzi.
 * Již v roce 1985 přišel na trh s elektromobilitou se svým vozidlem Sinclair C5.  
 ![Clive Sinclair](CliveSinclair.png "Clive Sinclair")
-
